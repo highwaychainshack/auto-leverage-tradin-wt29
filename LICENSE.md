@@ -1,4 +1,4 @@
-# 
+# best auto-leverage trading bot Executor | slippage-control + scalping is the best auto-leverage trading bot, featuring slippage-control and scalping. Smart, fast, and optimized
 
 
 
